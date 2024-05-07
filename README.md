@@ -91,7 +91,7 @@ jupyter lab
 After execution, you will see some information printed on the terminal. Usually, you will need to authenticate to use Jupyter Lab. For this, copy the token that appears on your terminal, head over to [http://localhost:8888/lab](http://localhost:8888/lab) and paste it there. Your terminal's output should look very similar to the next image, in which the token has been highlighted for reference:
 
 
-![Token in terminal](./assets/token.png)
+![image](https://github.com/AbhayPancholi/Object_Detection/assets/114471400/efd5179c-e7e8-465f-8984-370a5c88142f)
 
 
 ### 4. Running the notebook
