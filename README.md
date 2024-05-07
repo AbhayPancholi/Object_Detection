@@ -107,7 +107,6 @@ To stop jupyter lab once you are done with the lab just press `Ctrl + C` twice.
  
 # 
 #
-# Credits
-Acknowledgments:
+# Acknowledgments:
 
 This project is part of the "Machine Learning Engineering for Production (MLOps)" course offered by deeplearning.ai on Coursera. Special thanks to the instructors and team at deeplearning.ai for their comprehensive curriculum and guidance throughout the course.
