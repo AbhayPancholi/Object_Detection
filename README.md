@@ -45,7 +45,7 @@ Type `ls` and let's take a quick look at the content inside `Object_Detection` d
 ```
  
  
-## Method 1: Python Virtual Environment with Conda
+## Python Virtual Environment with Conda
  
 ### Prerequisites: Have [conda](https://docs.conda.io/en/latest/) installed on your local machine.
  
