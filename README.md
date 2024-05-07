@@ -39,8 +39,8 @@ Type `ls` and let's take a quick look at the content inside `Object_Detection` d
 .
 └── Object_Detection (this directory)
     ├── images (includes some images from ImageNet)
-    ├── server.ipynb (Part 1 of the ungraded lab)
-    ├── client.ipynb (Part 2 of the ungraded lab)
+    ├── server.ipynb (Part 1 of the project)
+    ├── client.ipynb (Part 2 of the project)
     └── requirements.txt (python dependencies)
 ```
  
